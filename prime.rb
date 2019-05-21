@@ -3,5 +3,6 @@ def prime(num)
     return false
   end
   
-  (1...num).each do
+  (2...num).each do
+    if num 
 end 
