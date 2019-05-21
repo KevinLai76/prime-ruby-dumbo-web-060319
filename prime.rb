@@ -7,6 +7,7 @@ def prime(num)
     if num % i == 0
       return false
     end
+  end 
     
     return true
 end 
