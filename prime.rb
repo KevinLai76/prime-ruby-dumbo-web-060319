@@ -3,4 +3,5 @@ def prime(num)
     return false
   end
   
+  (1...num).each do
 end 
